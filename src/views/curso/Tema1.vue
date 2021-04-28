@@ -52,7 +52,7 @@
     .row.align-items-center
       .col-auto
         figure
-          img(src="@/assets/tema_1/img_1_2_01.svg", alt="Autonomía progresiva", style="width:90px;")
+          img(src="@/assets/tema_1/img_1_2_01.svg", alt="Autonomía progresiva", style="width:90px;")        
       .col
         h6.mb-2 Autonomía progresiva
         p A medida que se desarrollan física y mentalmente, los niños, niñas y adolescentes adquieren mayores capacidades para poder ejercer sus derechos. 
