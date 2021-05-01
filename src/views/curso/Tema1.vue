@@ -103,8 +103,8 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Derecho a ser oído y tomada en cuenta su opinión
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kU0IUJmEbuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Derecho a ser oído y tomada en cuenta su opinión      
 
     .hr--blank
 
@@ -180,7 +180,10 @@
               | Derecho a un nombre y a una nacionalidad.
             li 
               i.fas.fa-angle-right.clr-accent--txt
-              | Derecho a tener familia y no ser separado de ella. Derecho al cuidado y al amor.
+              | Derecho a tener familia y no ser separado de ella. 
+            li 
+              i.fas.fa-angle-right.clr-accent--txt
+              | Derecho al cuidado y al amor.             
             li 
               i.fas.fa-angle-right.clr-accent--txt
               | Derecho a la educación y a la cultura.
@@ -216,7 +219,7 @@
               | Los convenios y tratados sobre derechos prevalecen en el orden interno. 
             li 
               i.fas.fa-angle-right.clr-accent--txt
-              | Los derechos y deberes de la Constitución se interpretan según los tratados internacionales sucritos por Colombia. 
+              | Los derechos y deberes de la Constitución se interpretan según los tratados internacionales suscritos por Colombia. 
 
     .c-tarjeta--gris.p-2.mb-5
       p Nota: adaptado de Constitución Política de Colombia (1991).
@@ -239,6 +242,7 @@
 
     .row.justify-content-center.mb-5
       .col-12
+        h5.text-center.mb-5 Derechos de niñas, niños y adolescentes incluidos en el Código de Infancia y Adolescencia
         .tabla-custom  
           table
             thead
@@ -559,6 +563,66 @@
                     .col
                       p Cualquier otro acto que amenace o vulnere sus derechos.  
         
+
+    .row.justify-content-center.mb-3
+      .col-12
+        .tabla-custom
+          table
+            thead
+              tr
+                th(style="background-color:#FF4A69; color:white; padding: 1.5rem 0;").text-center Libertades fundamentales 
+            tbody
+              tr               
+                td 
+                  .row
+                    .col-auto
+                      .square__list
+                        p #[span 39] 
+                    .col
+                      p El libre desarrollo de la personalidad y la autonomía personal.
+              tr               
+                td 
+                  .row
+                    .col-auto
+                      .square__list
+                        p #[span 40] 
+                    .col
+                      p La libertad de conciencia y de creencia.
+              tr               
+                td 
+                  .row
+                    .col-auto
+                      .square__list
+                        p #[span 41] 
+                    .col
+                      p La libertad de culto.
+              tr               
+                td 
+                  .row
+                    .col-auto
+                      .square__list
+                        p #[span 42] 
+                    .col
+                      p La libertad de pensamiento.
+              tr               
+                td 
+                  .row
+                    .col-auto
+                      .square__list
+                        p #[span 43] 
+                    .col
+                      p La libertad de locomoción.
+              tr               
+                td 
+                  .row
+                    .col-auto
+                      .square__list
+                        p #[span 44] 
+                    .col
+                      p La libertad para escoger profesión u oficio.
+
+    .crd_C.mb-5
+      p Nota: adaptado de Ley 1098 de 2006. 
 
     p De igual manera, este Código también establece que, en caso de que alguno de los derechos haya sido vulnerado o amenazado, el Estado tiene la responsabilidad de actuar a través de sus entidades encargadas para reparar el daño ocasionado y solucionar las causas de las problemáticas que enfrentan los niños, niñas y adolescentes. Por otro lado, se insta a las autoridades encargadas a realizar verificaciones sobre la observancia de los derechos establecidos, más específicamente, en áreas como: salud física y psicológica, nutrición y vacunación, registro, riesgos dentro la familia, vinculación al sistema de salud y al sistema educativo, entre otros. 
       br

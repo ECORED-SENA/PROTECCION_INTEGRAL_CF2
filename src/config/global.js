@@ -151,61 +151,72 @@ export const creditos = {
   },
   contenidoInstruccional: [
     {
-      nombre: 'Gloria Matilde Lee Mejía',
-      cargo: 'Responsable del equipo',
-      centro: 'Centro de Comercio y Servicios',
-      regional: 'Regional Tolima',
-    },
-    {
       nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor pedagógico',
+      cargo: 'Asesor Metodológico y Pedagógico',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
     {
-      nombre: 'Astrid Lili Puerta',
+      nombre: 'Ana Francisca Uribe Cárdenas',
       cargo: 'Experta temática',
-      centro: 'Centro Agropecuario de Buga',
-      regional: 'Regional valle',
+      centro: 'Equipo de Verificación. Programa Familias en Acción',
+      regional: 'Dirección de Transferencias Monetarias Condicionadas.',
     },
     {
-      nombre: 'Javier Enrique Santana',
-      cargo: 'Experto temático',
-      centro: 'Centro de Gestión Industrial',
-      regional: 'Regional Distrito Capital',
+      nombre: 'Claudia Pureza Perdomo Gómez ',
+      cargo: 'Experto temática',
+      centro: 'GIT Territorios y Poblaciones',
+      regional: 'Dirección de Transferencias Monetarias Condicionadas.',
     },
     {
-      nombre: 'Michael Andrés Cortés Caro',
+      nombre: 'Jairo Fernando Contreras Gutiérrez',
       cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+      centro: 'Oficina Asesora de Planeación.',
     },
     {
-      nombre: 'Mauricio Jiménez Fajardo',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+      nombre: 'Martha Cecilia Arcila Aponte',
+      cargo: 'Experto temática',
+      centro: 'DTMC Grupo de Pilotaje y Escalamiento.',
     },
     {
-      nombre: 'Manuel Alejandro Garzón Cárdenas',
+      nombre: 'Omayra Hoyos Rojas',
+      cargo: 'Experto temática',
+      centro:
+        'Equipo de Verificación. Programa Familias en Acción. Dirección de Transferencias Monetarias Condicionadas.',
+    },
+    {
+      nombre: 'William Mogollón Marín',
       cargo: 'Experto temático',
-      centro: 'Deutsche Gesellschaft für',
-      regional: 'Internationale Zusammenarbeit (GIZ)',
+      centro: 'CORPROGRESO',
     },
     {
       nombre: 'Liliana Victoria Morales Gualdrón',
       cargo: 'Diseñador instruccional',
+      centro: 'Centro de Gestión Industrial',
+      regional: 'Regional Distrito Capital',
+    },
+    {
+      nombre: 'Dayra Maritza Paz Calderón',
+      cargo: 'Diseñador instruccional y evaluador Instruccional',
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Carlos Andrés Rodríguez',
-      cargo: 'Evaluador instruccional',
+      nombre: 'Julia Isabel Roberto',
+      cargo: 'Evaluador Instruccional',
+      centro: 'Centro para la comunicación de la Industria Gráfica',
+      regional: 'Regional Distrito Capital',
+    },
+    {
+      nombre: 'José Gabriel Ortiz Abella',
+      cargo: 'Revisión metodológica y pedagógica',
       centro: 'Centro de Diseño y Metrología',
       regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Julieth Paola Vital López',
+      nombre: 'María Isabel Román Rueda',
       cargo: 'Revisora de estilo',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
+      centro: 'Centro para la Comunicación de la Industria Gráfica',
       regional: 'Regional Distrito Capital',
     },
   ],
@@ -216,15 +227,28 @@ export const creditos = {
     },
     {
       nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Integración de recursos y pruebas',
+      cargo: 'Soporte Organizacional',
     },
     {
-      nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+      nombre: [
+        'Jesus Antonio Vecino Valero',
+        'José Jaime Luis Tang Pinzón',
+        'Lady Adriana Ariza Luque',
+        'Luis Zenen Arévalo Mantilla',
+        'Nelson Iván Vera Briceño',
+        'Oleg Litvin',
+        'Wilson Andres Arenales Cáceres',
+        'Zuleidy Maria Ruiz Torres',
+      ],
       cargo: 'Diseño web y Producción Audiovisual',
     },
     {
-      nombre: 'Edward Leonardo Pico Cabra',
+      nombre: ['Daniel Ricardo Mutis Gómez', 'Ricardo Alfonso González Vargas'],
       cargo: 'Desarrollo Front-End',
+    },
+    {
+      nombre: 'María Isabel Román Rueda',
+      cargo: 'Revisora de contenidos',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -233,8 +257,8 @@ export const creditos = {
   ],
   gestoresRepositorio: [
     {
-      nombre: 'Brayan Stiven Pinto Diaz',
-      cargo: ['Desarrollo front-end', 'Validación de recursos'],
+      nombre: 'Milady Tatiana Villamil Castellanos',
+      cargo: ['Validación de recursos'],
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
     },
@@ -352,7 +376,7 @@ export const glosario = [
 export const complementario = [
   {
     texto:
-      'La Divina Mente Estudio.(19 de enero de 2017).Política Pública de Infancia, ICBF.',
+      'La Divina Mente Estudio.(19 de enero de 2017). Política Pública de Infancia, ICBF.',
     tipo: 'Video',
     link: 'https://www.youtube.com/watch?v=ONpa6dRppJE',
   },

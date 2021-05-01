@@ -198,10 +198,10 @@
           figure.mb-4
             img(src="@/assets/tema_2/img_2_2_09.svg", alt="alt", style="width:90px; display:block; margin: 0 auto;")
           h5.mb-4 Instancias de Participación
-          p Instancias de Participación
+          p Interacción con Niños, Niñas y Adolescentes.
             br
             br
-            | Mesas de participación con niños, niñas y adolescentes deparamentales o municipales.
+            | Mesas de participación con niños, niñas y adolescentes departamentales o municipales.
 
     .crd_C.mb-5
       p Nota: adaptado de manual operativo del SNBF(2019).
@@ -211,7 +211,7 @@
     .row.justify-content-center.mb-5
       .col-auto 
         figure
-          img(src="@/assets/tema_2/img_2_2_10.png", alt="alt", style="width:650px;").mb-3
+          img(src="@/assets/tema_2/img_2_2_10.png", alt="alt", style="width:750px;").mb-3
           figcaption Nota: tomado de Cartilla ABC del SNBF (ICBF, 2013). 
 
     p.mb-5 Cabe aclarar que se recomienda consultar directamente el Manual operativo del SNBF (ICBF, 2019) para conocer en mayor detalle la composición del sistema en el ámbito y las instancias específicas que aplican. Dicho documento se encuentra referenciado en el material complementario de este componente formativo. 
@@ -220,8 +220,11 @@
 
     p.mb-5 A continuación, se presenta la lista de agentes del SNBF con la función que cumplen dentro del sistema para ejercer su rol de corresponsabilidad en la garantía de derechos de los niños, niñas y adolescentes.
 
+    h5.text-center.mb-4 Agentes y funciones dentro del SNBF
+
     .tabla-custom
-      table
+      table 
+        caption Anota: adaptado de Manual operativo del SNBF (ICBF, 2019). 
         thead
           tr
             th(style="width:20%; background-color:#FF4A69; color:white; padding:1rem 0.5rem").text-center Tipo            

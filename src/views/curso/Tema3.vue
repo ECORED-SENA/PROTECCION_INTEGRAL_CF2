@@ -8,22 +8,18 @@
         .h3 3
       .h3 Entornos protectores
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-xl.mb-5.mb-xl-0
-        p Este bloque temático corresponde a la definición del concepto de entornos protectores, su relevancia y consolidación en la Política Nacional de Infancia y Adolescencia. Posteriormente, se describen las principales características de las líneas de política pública relacionadas con problemáticas que afectan actualmente a los niños, niñas y adolescentes, como es el caso del trabajo infantil, la explotación sexual comercial, reclutamiento, uso y utilización de niñas, niños y adolescentes por parte de Grupos Armados Organizados (GAO) y el embarazo adolescente. Finalmente, se presentan los aspectos de las políticas públicas de primera infancia, apoyo y fortalecimiento a las familias y discapacidad e inclusión social. 
-          br
-          br
-          | Los entornos protectores se definen como espacios sociales y culturales donde habitan las personas y en donde se producen interacciones continuas entre las niñas, niños y adolescentes con el ambiente físico, biológico, social, cultural y comunitario. En estos espacios es donde se materializan las estrategias de política pública frente al tema. Como ejemplo de entorno se encuentra el hogar, las instituciones de salud, las instituciones educativas, el espacio público y otros definidos según cada cultura y territorio (Congreso de la República, 2016). 
-      .col-auto
-        figure
-          img(src="@/assets/tema_3/img_3_01.svg", alt="Entornos protectores", style="width:450px;")
+    .crd_complete.mb-5 
+      .row.justify-content-center.align-items-center
+        .col-auto.me-5
+          img(src="@/assets/componentes/infografia.svg", style="width:300px")
+        .col
+          .titulo-segundo.mb-4
+            .h4 Infografía
+          p.mb-4 En el siguiente enlace encontrará un recurso infográfico con la definición del concepto de entornos protectores, su relevancia y consolidación en la #[strong Política Nacional de Infancia y Adolescencia]. 
 
-    .row.justify-content-center.align-items-center
-      .col-12.col-lg-6
-        .cajon--rojo.p-4          
-          p Los entornos son clave para proteger a las niñas, niños y adolescentes de amenazas como el maltrato, la explotación y la violencia. Los entornos protectores posibilitan que las niñas, niños y adolescentes puedan desarrollarse física, emocional y mentalmente de forma segura dentro de sus contextos culturales y sociales. 
-      .col-12.col-lg-6
-        p Si bien los escenarios anteriormente planteados cuentan con una amplia diversidad, es deber de la sociedad velar porque todos sean entornos protectores para el desarrollo seguro y adecuado de las niñas, niños y adolescentes y, así mismo, realizar una constante observación de las situaciones para evitar que se conviertan en amenazas a sus derechos. En ese sentido, se fortalece la corresponsabilidad y el enfoque en prevención de riesgos. 
+          a.boton.boton--b(:href="obtenerLink('/downloads/infografias/infografia_definicion_entornos_protectores.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download  
 
     .hr--blank
 
@@ -41,10 +37,7 @@
           br
           | Esta política tiene como objetivo el contribuir al desarrollo integral de las niñas, niños y adolescentes en todo el territorio nacional, en ese sentido, propone una serie de acciones para generar bienestar, acceso a oportunidades para que estos puedan transformar la realidad de sus comunidades. Todo esto desde el concepto de protección integral, que ya ha sido discutido en apartados anteriores.
 
-    p.mb-5 Para enfocar mejor las acciones contenidas dentro de este marco de acción, se establecen una serie de definiciones sobre los entornos donde aplica la política pública, lo que a su vez refuerza el concepto de entorno protector. 
-      br
-      br
-      | En términos generales, se define la existencia de seis (6) entornos básicos, los cuales se describen en el siguiente video: 
+    p.mb-5 Para enfocar mejor las acciones contenidas dentro de este marco de acción, se establecen una serie de definiciones sobre los entornos donde aplica la política pública, lo que a su vez refuerza el concepto de entorno protector.     
 
     .crd_complete.mb-5 
       .row.justify-content-center.align-items-center
@@ -67,7 +60,7 @@
           img(src="@/assets/tema_3/img_3_1_02.svg", alt="Enfoque de derechos humanos y el paradigma de la protección integral", style="width:150px;")
       .col
         .tarjeta.tarjeta--celeste
-          p #[strong Enfoque de derechos humanos y el paradigma de la protección integral:] 
+          p #[strong Enfoque de derechos humanos y el paradigma de la protección integral] 
             br
             | enfoque rector de esta y de todas las políticas de infancia y adolescencia. Se centra en la dignificación de los niños, niñas y adolescentes a partir de su reconocimiento como sujetos titulares de derechos. 
     .row.justify-content-center.align-items-center.mb-4
@@ -76,45 +69,45 @@
           img(src="@/assets/tema_3/img_3_1_03.svg", alt="Enfoque de derechos humanos y el paradigma de la protección integral", style="width:150px;")
       .col
         .tarjeta.tarjeta--celeste
-          p #[strong Enfoque de género:] 
+          p #[strong Enfoque de género] 
             br
-            | propone acciones encaminadas a la igualdad de género en ejercicio de derechos, autonomía y condiciones de vida. Es necesario entender que los roles de género, es decir aquellos comportamientos o pautas que una sociedad o comunidad espera que un individuo siga según su género elegido, surgen como un proceso cultural y varían dependiendo de los contextos. En ese sentido, es clave comprender las diferencias que se dan entre cada género y cómo esto afecta el desarrollo de las niñas, niños y adolescentes.  
+            | Propone acciones encaminadas a la igualdad de género en ejercicio de derechos, autonomía y condiciones de vida. Es necesario entender que los roles de género, es decir aquellos comportamientos o pautas que una sociedad o comunidad espera que un individuo siga según su género elegido, surgen como un proceso cultural y varían dependiendo de los contextos. En ese sentido, es clave comprender las diferencias que se dan entre cada género y cómo esto afecta el desarrollo de las niñas, niños y adolescentes.  
     .row.justify-content-center.align-items-center.mb-4
       .col-auto
         figure
           img(src="@/assets/tema_3/img_3_1_04.svg", alt="Enfoque de derechos humanos y el paradigma de la protección integral", style="width:150px;")
       .col
         .tarjeta.tarjeta--celeste
-          p #[strong Enfoque diferencial:] 
+          p #[strong Enfoque diferencial] 
             br
-            | dirige las acciones para comprender la realidad de las niñas, niños y adolescentes desde el reconocimiento de las particularidades de cada individuo y comunidad según sus experiencias, teniendo en cuenta los muchos factores que pueden generar desigualdades. En ese sentido, se deben tener en cuenta variables como edad, etnia, condiciones sociales, económicas, religión, diferencias entre regiones, etc. De esta forma, se deben proponer acciones afirmativas que sirvan para eliminar las inequidades experimentadas por estos factores.
+            | Dirige las acciones para comprender la realidad de las niñas, niños y adolescentes desde el reconocimiento de las particularidades de cada individuo y comunidad según sus experiencias, teniendo en cuenta los muchos factores que pueden generar desigualdades. En ese sentido, se deben tener en cuenta variables como edad, etnia, condiciones sociales, económicas, religión, diferencias entre regiones, etc. De esta forma, se deben proponer acciones afirmativas que sirvan para eliminar las inequidades experimentadas por estos factores.
     .row.justify-content-center.align-items-center.mb-4
       .col-auto
         figure
           img(src="@/assets/tema_3/img_3_1_05.svg", alt="Enfoque de derechos humanos y el paradigma de la protección integral", style="width:150px;")
       .col
         .tarjeta.tarjeta--celeste
-          p #[strong Enfoque interseccional:] 
+          p #[strong Enfoque interseccional] 
             br
-            | analiza de forma conjunta y no aislada las interacciones y vínculos posibles entre los diversos factores que inciden en el desarrollo de las niñas, niños y adolescentes.  
+            | Analiza de forma conjunta y no aislada las interacciones y vínculos posibles entre los diversos factores que inciden en el desarrollo de las niñas, niños y adolescentes.  
     .row.justify-content-center.align-items-center.mb-4
       .col-auto
         figure
           img(src="@/assets/tema_3/img_3_1_06.svg", alt="Enfoque de derechos humanos y el paradigma de la protección integral", style="width:150px;")
       .col
         .tarjeta.tarjeta--celeste
-          p #[strong Enfoque de desarrollo humano:] 
+          p #[strong Enfoque de desarrollo humano] 
             br
-            | perspectiva que entiende la autonomía de los niños, niñas y adolescentes como un proceso de evolución durante las etapas de vida. La autonomía y la libertad de opinión son fundamentales para el fortalecimiento de la democracia a futuro, en ese sentido, es clave partir de esta base en políticas de infancia y adolescencia. 
+            | Perspectiva que entiende la autonomía de los niños, niñas y adolescentes como un proceso de evolución durante las etapas de vida. La autonomía y la libertad de opinión son fundamentales para el fortalecimiento de la democracia a futuro, en ese sentido, es clave partir de esta base en políticas de infancia y adolescencia. 
     .row.justify-content-center.align-items-center.mb-5
       .col-auto
         figure
           img(src="@/assets/tema_3/img_3_1_07.svg", alt="Enfoque de derechos humanos y el paradigma de la protección integral", style="width:150px;")
       .col
         .tarjeta.tarjeta--celeste
-          p #[strong Enfoque de curso de vida:] 
+          p #[strong Enfoque de curso de vida] 
             br            
-            | perspectiva que privilegia las intervenciones en grupos de edades tempranos debido a los beneficios que esto puede tener para las futuras generaciones, entendiendo las etapas de vida como procesos de tránsito y transición y no como ciclos fijos. Por lo tanto, bajo este enfoque se asume que el cambio en el tiempo es inherente al ser humano. Como enfoque el curso de vida se apoya en tres (3) conceptos: trayectoria, transición y cambio de estado. El primero hace referencia al tipo de vida que cada individuo lleva según su educación, trabajo o vida reproductiva. La transición son aquellos cambios de roles o estados que cada uno tiene que asumir en su vida según los eventos que enfrente. Finalmente, el cambio de estado hace alusión a los eventos o situaciones específicas que producen las transiciones.
+            | Perspectiva que privilegia las intervenciones en grupos de edades tempranos debido a los beneficios que esto puede tener para las futuras generaciones, entendiendo las etapas de vida como procesos de tránsito y transición y no como ciclos fijos. Por lo tanto, bajo este enfoque se asume que el cambio en el tiempo es inherente al ser humano. Como enfoque el curso de vida se apoya en tres (3) conceptos: trayectoria, transición y cambio de estado. El primero hace referencia al tipo de vida que cada individuo lleva según su educación, trabajo o vida reproductiva. La transición son aquellos cambios de roles o estados que cada uno tiene que asumir en su vida según los eventos que enfrente. Finalmente, el cambio de estado hace alusión a los eventos o situaciones específicas que producen las transiciones.
 
     p.text-center.mb-5 Así, se hace necesario revisar en el siguiente esquema los enfoques de la Política Nacional de Infancia y Adolescencia.
 
@@ -165,7 +158,8 @@
       br
       br
       | A continuación, se ofrecen las definiciones de estos conceptos:
-
+    
+    h5.text-center.mb-4 Definiciones de amenaza, vulneraciones e inobservancia
     .tabla-b.mb-5     
       table
         caption Nota: adaptado de ICBF (2018).
@@ -211,13 +205,18 @@
           .bloque-texto-a__texto.p-4            
             p La Línea de Política Pública para la Prevención y Erradicación del Trabajo Infantil y la Protección Integral al Adolescente Trabajador (2017-2027) es un conjunto de estrategias y que buscan prevenir y erradicar el trabajo infantil y proteger integralmente al adolescente trabajador, siendo las familias la unidad de intervención para este propósito. 
 
-    p.mb-5 Entonces, ¿cuándo se considera que el trabajo infantil es problemático y debe ser erradicado?, cuando se tratan de actividades que implican un peligro para la salud e integridad de las niñas, niños y adolescentes ya sea por las tareas efectuadas o por las condiciones en las que se realizan. Estas actividades son denominadas peores formas de trabajo infantil según la CDN y la Organización Internacional del Trabajo (OIT). Entre ellas se encuentran la esclavitud, la venta y trata de personas, la condición de siervo, trabajos forzosos, reclutamiento en conflictos armados, utilización para prostitución y pornografía y tráfico de estupefacientes. Todas estas actividades están prohibidas por ley y aquellos que utilicen niñas, niños y adolescentes para estos propósitos serán objeto de procesos penales (ICBF, 2018).
+    p.mb-5 Si bien el trabajo es una dimensión que contribuye significativamente a la dignificación de las personas, en el caso de las niñas, niños y adolescentes esto puede llegar convertirse en una amenaza a su desarrollo integral si no se cumplen una serie de condiciones. 
+      br
+      br
+      | Entonces, ¿cuándo se considera que el trabajo infantil es problemático y debe ser erradicado?, cuando se tratan de actividades que implican un peligro para la salud e integridad de las niñas, niños y adolescentes ya sea por las tareas efectuadas o por las condiciones en las que se realizan. Estas actividades son denominadas peores formas de trabajo infantil según la CDN y la Organización Internacional del Trabajo (OIT). Entre ellas se encuentran la esclavitud, la venta y trata de personas, la condición de siervo, trabajos forzosos, reclutamiento en conflictos armados, utilización para prostitución y pornografía y tráfico de estupefacientes. Todas estas actividades están prohibidas por ley y aquellos que utilicen niñas, niños y adolescentes para estos propósitos serán objeto de procesos penales (ICBF, 2018).
       br
       br
       | De todas formas, se debe erradicar cualquier actividad que ponga en riesgo la salud, seguridad y moralidad de los niños así no se encuentren penalizada por ley. 
       br
       br
       | A continuación, se enlistan las formas de trabajo infantil más comunes:
+
+    h5.text-center.mb-4 Tipos de trabajo infantil
 
     .tabla-custom
       table.mb-5
@@ -306,7 +305,7 @@
             | #[strong Fortalecer y articular las instituciones:] apoyo a Comité Interinstitucional para la Prevención y Erradicación del Trabajo Infantil (CIETI). Que se encarga de generar lineamientos y conceptos técnicos para la implementación de acciones a nivel territorial y nacional. Se encuentra liderado por el ICBF y el Ministerio de Trabajo y hace parte del SNBF. 
           li 
             i.fas.fa-angle-right.clr-accent--txt
-            | #[strong Realizar la gestión de conocimiento de distintas bases de datos:]para evitar falta de información y emprender acciones de mejoría a futuro.
+            | #[strong Realizar la gestión de conocimiento de distintas bases de datos:] para evitar falta de información y emprender acciones de mejoría a futuro.
           li 
             i.fas.fa-angle-right.clr-accent--txt
             | #[strong Realizar acciones de seguimiento y evaluación:] de los casos monitoreados por las instancias pertinentes y las mesas de trabajo.
@@ -453,8 +452,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Línea de política pública de prevención del reclutamiento, utilización, uso y violencia sexual contra niños, niñas y adolescentes por parte de Grupos Armados Organizados (GAO) y Grupos Delictivos Organizados (GDO)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/hDeYDlF2jtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Línea de política pública de prevención del reclutamiento, utilización, uso y violencia sexual contra niños, niñas y adolescentes por parte de Grupos Armados Organizados (GAO) y Grupos Delictivos Organizados (GDO)      
 
     h5.mb-4 Estrategia de atención integral para niñas, niños y adolescentes con énfasis en la prevención del embarazo adolescente
 
