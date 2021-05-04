@@ -164,7 +164,7 @@ export const creditos = {
     },
     {
       nombre: 'Claudia Pureza Perdomo Gómez ',
-      cargo: 'Experto temática',
+      cargo: 'Experta temática',
       centro: 'GIT Territorios y Poblaciones',
       regional: 'Dirección de Transferencias Monetarias Condicionadas.',
     },
@@ -175,12 +175,12 @@ export const creditos = {
     },
     {
       nombre: 'Martha Cecilia Arcila Aponte',
-      cargo: 'Experto temática',
+      cargo: 'Experta temática',
       centro: 'DTMC Grupo de Pilotaje y Escalamiento.',
     },
     {
       nombre: 'Omayra Hoyos Rojas',
-      cargo: 'Experto temática',
+      cargo: 'Experta temática',
       centro:
         'Equipo de Verificación. Programa Familias en Acción. Dirección de Transferencias Monetarias Condicionadas.',
     },
@@ -191,19 +191,19 @@ export const creditos = {
     },
     {
       nombre: 'Liliana Victoria Morales Gualdrón',
-      cargo: 'Diseñador instruccional',
+      cargo: 'Diseñadora instruccional',
       centro: 'Centro de Gestión Industrial',
       regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Dayra Maritza Paz Calderón',
-      cargo: 'Diseñador instruccional y evaluador Instruccional',
+      cargo: 'Diseñadora instruccional y evaluador Instruccional',
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Julia Isabel Roberto',
-      cargo: 'Evaluador Instruccional',
+      cargo: 'Evaluadora Instruccional',
       centro: 'Centro para la comunicación de la Industria Gráfica',
       regional: 'Regional Distrito Capital',
     },
@@ -211,12 +211,6 @@ export const creditos = {
       nombre: 'José Gabriel Ortiz Abella',
       cargo: 'Revisión metodológica y pedagógica',
       centro: 'Centro de Diseño y Metrología',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'María Isabel Román Rueda',
-      cargo: 'Revisora de estilo',
-      centro: 'Centro para la Comunicación de la Industria Gráfica',
       regional: 'Regional Distrito Capital',
     },
   ],
