@@ -22,9 +22,7 @@
     p Dentro de este contexto, el programa Familias en Acción al entregar un incentivo condicionado a la asistencia a un mínimo del 80 % de las clases del año (educación), busca contribuir a la garantía del ejercicio de los derechos de los niños, niñas y adolescentes, y a la prevención de los principales riesgos asociados a su posible vulneración. La estrategia de alertas en el marco de este programa permite generar avisos oportunos a posibles inobservancias, amenazas y vulneraciones, y promover acciones para su protección y restablecimiento.
       br
       br
-      | Posteriormente se profundizan en algunas de las explicaciones y fundamentos trabajados con respecto a la protección integral de niñas, niños y adolescentes dentro del programa Familias en Acción. 
-
-    
+      | Posteriormente se profundizan en algunas de las explicaciones y fundamentos trabajados con respecto a la protección integral de niñas, niños y adolescentes dentro del programa Familias en Acción.     
 
 </template>
 

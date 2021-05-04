@@ -103,8 +103,8 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/kU0IUJmEbuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Derecho a ser oído y tomada en cuenta su opinión      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lQ-5HvFlX1U?list=PLkc5n6npRWkjz4uJoTyjQRANpYp0by5RS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Derecho a ser oído y tomada en cuenta su opinión         
 
     .hr--blank
 
@@ -145,8 +145,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/GIjP7av6P6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Los derechos de los niños, niñas y adolescentes en el ámbito internacional     
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4mNxRFp6yxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Los derechos de los niños, niñas y adolescentes en el ámbito internacional        
       
     .h5.mb-4  La Constitución Política y los derechos de los niños, niñas y adolescentes 
 

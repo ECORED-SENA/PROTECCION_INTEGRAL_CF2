@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'Promoción de derechos de niñas, niños y adolescentes',
   descripcionCurso:
-    'Este componente formativo aborda conceptos relacionados con los derechos de niñas, niños y adolescentes desde el enfoque de sujeto de derechos. De igual manera, se hace una descripción de los principales marcos normativos en la materia a nivel nacional e internacional. Posteriormente, se presentan los principales conceptos del enfoque de protección integral y se realiza la descripción del funcionamiento del Sistema Nacional de Bienestar Familiar (SNBF) y sus componentes.<br/><br/>Finalmente, se hace una aproximación a las políticas públicas enfocadas en la prevención de riesgos de vulneración de los derechos de niñas, niños y adolescentes.',
+    'Se abordará el reconocimiento de niñas, niños y adolescentes como sujetos de derechos, en el contexto nacional e internacional; además se ahondará en el enfoque de protección integral a través del Sistema Nacional de Bienestar Familiar (SNBF) y las políticas públicas orientadas a la prevención de riesgos de vulneración.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
@@ -33,13 +33,13 @@ export const menuPrincipal = {
           hash: 't_1_1',
         },
         {
-          icono: 'far fa-file-alt',
+          icono: 'far fa-play-circle',
           numero: '1.2',
           titulo: 'Principios y enfoques',
           hash: 't_1_2',
         },
         {
-          icono: 'far fa-file-alt',
+          icono: 'far fa-play-circle',
           numero: '1.3',
           titulo: 'Contexto normativo',
           hash: 't_1_3',

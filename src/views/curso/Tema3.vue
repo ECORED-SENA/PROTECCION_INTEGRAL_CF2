@@ -62,7 +62,7 @@
         .tarjeta.tarjeta--celeste
           p #[strong Enfoque de derechos humanos y el paradigma de la protección integral] 
             br
-            | enfoque rector de esta y de todas las políticas de infancia y adolescencia. Se centra en la dignificación de los niños, niñas y adolescentes a partir de su reconocimiento como sujetos titulares de derechos. 
+            | Enfoque rector de esta y de todas las políticas de infancia y adolescencia. Se centra en la dignificación de los niños, niñas y adolescentes a partir de su reconocimiento como sujetos titulares de derechos. 
     .row.justify-content-center.align-items-center.mb-4
       .col-auto
         figure
@@ -239,8 +239,8 @@
               br
               | - Trata de personas con estos fines.
           tr
-            td.text-center Actividades asociadas a esclavitud.   
-            td
+            td(style="background-color:white;").text-center Actividades asociadas a esclavitud.   
+            td(style="background-color:white;")
               | - Producci&oacute;n y tr&aacute;fico de estupefacientes.
               br
               br
