@@ -9,7 +9,7 @@
           i.fas.fa-info
       .h3 Introducción
 
-    .bloque-texto-a.p-4.p-md-5.mb-5
+    .bloque-texto-a.bta--cl.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
@@ -22,19 +22,15 @@
     p Dentro de este contexto, el programa Familias en Acción al entregar un incentivo condicionado a la asistencia a un mínimo del 80 % de las clases del año (educación), busca contribuir a la garantía del ejercicio de los derechos de los niños, niñas y adolescentes, y a la prevención de los principales riesgos asociados a su posible vulneración. La estrategia de alertas en el marco de este programa permite generar avisos oportunos a posibles inobservancias, amenazas y vulneraciones, y promover acciones para su protección y restablecimiento.
       br
       br
-      | Posteriormente se profundizan en algunas de las explicaciones y fundamentos trabajados con respecto a la protección integral de niñas, niños y adolescentes dentro del programa Familias en Acción.     
+      | Posteriormente se profundizan en algunas de las explicaciones y fundamentos trabajados con respecto a la protección integral de niñas, niños y adolescentes dentro del programa Familias en Acción. 
 
 </template>
 
 <script>
-import BannerInterno from '../components/plantilla/BannerInterno'
 export default {
   name: 'Introduccion',
-  components: {
-    BannerInterno,
-  },
   data: () => ({
-    globalData: global,
+    // variables de vue
   }),
 }
 </script>

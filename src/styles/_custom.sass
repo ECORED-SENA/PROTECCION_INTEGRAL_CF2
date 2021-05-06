@@ -4,12 +4,12 @@
   margin: 2rem 0
 
 .clr-accent--txt
-  color: $color-curso-b
+  color: $color-acento-contenido
 
 .circle    
   padding: 1rem 1.35rem
   border-radius: 999px
-  background-color: $color-curso-b
+  background-color: $color-acento-contenido
   color: white
   font-weight: 700
 
@@ -33,7 +33,6 @@
   padding: 0.5rem
   background-color: #E8E8E8
 
-
 .square__list
   span
     display: inline-block
@@ -42,7 +41,52 @@
     line-height: 25px       
     color: white
     text-align: center
-    background-color: $color-curso-b
+    background-color: $color-acento-contenido
 
+.c-tarjeta    
+  padding: 2rem
+  &--celeste    
+    background-color: #F3F9FF
+  &--azul
+    background-color: #D7ECFF
+  &--gris    
+    background-color: #e0e0e0
+  &--acento    
+    background-color: $color-acento-contenido
 
+.br-1
+  border-radius: 16px
 
+.heightCard-100
+  flex: 1
+  height: 100% !important
+  background-color: pink
+
+.li--clr
+  color: $color-acento-contenido
+
+// TABLAS
+.tabla-custom
+  overflow-x: auto
+  table
+    table-layout: auto
+    min-width: 700px
+  thead
+    background-color: $color-curso-b    
+    text-align: center
+    color: white
+  tr
+    &:nth-child(even)
+      background-color: transparentize($color-sistema-f, 0.6)
+  td
+    padding: 1.5rem
+
+// Bloque de texto
+.bta--cl
+  background: #3366CC
+
+.cajon--azul
+  background-color: #D4F1F8
+  &::before
+    background-color: #7DD3E9
+    
