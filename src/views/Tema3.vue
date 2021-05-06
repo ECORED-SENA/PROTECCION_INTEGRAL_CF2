@@ -17,7 +17,7 @@
             .h4 Infografía
           p.mb-4 En el siguiente enlace encontrará un recurso infográfico con la definición del concepto de entornos protectores, su relevancia y consolidación en la #[strong Política Nacional de Infancia y Adolescencia]. 
 
-          a.boton.boton--b(:href="obtenerLink('/downloads/infografias/infografia_definicion_entornos_protectores.pdf')" target="_blank" type="application/pdf")
+          a.boton.boton--b(:href="obtenerLink('downloads/infografias/infografia_definicion_entornos_protectores.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download  
 
@@ -48,7 +48,7 @@
             .h4 Infografía
           p.mb-4 En términos generales, se define la existencia de seis (6) #[strong entornos protectores básicos para niñas, niños y adolescentes], los cuales se describen en el siguiente enlace. 
 
-          a.boton.boton--b(:href="obtenerLink('/downloads/infografias/Entornos_Protectores.pdf')" target="_blank" type="application/pdf")
+          a.boton.boton--b(:href="obtenerLink('downloads/infografias/Entornos_Protectores.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download     
 
@@ -565,7 +565,7 @@
             .h4 Promoción de derechos de niñas, niños y adolescentes
           p.mb-4 Mediante la siguiente actividad se busca fortalecer los conocimientos adquiridos sobre la promoción de derechos de niñas, niños y adolescentes. 
 
-          a.boton.boton--b(:href="obtenerLink('/downloads/actividades/A1/index.html')" target="_blank" type="application/pdf")
+          a.boton.boton--b(:href="obtenerLink('downloads/actividades/A1/index.html')" target="_blank" type="application/pdf")
             span Iniciar
             i.fas.fa-file-download
 
