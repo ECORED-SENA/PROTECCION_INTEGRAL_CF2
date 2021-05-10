@@ -30,7 +30,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.1',
             titulo:
-              'Las niñas, niños y adolescentes como titulares de derechos',
+              'Las niñas, niños y adolescentes como sujetos titulares de derechos',
             hash: 't_1_1',
           },
           {
@@ -51,7 +51,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'La protección integral de las niñas, niños y adolescentes',
+        titulo: 'La protección Integral de las niñas, niños y adolescentes',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -79,7 +79,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'La Política Nacional de Infancia y Adolescencia',
+            titulo: 'Política Nacional de Infancia y Adolescencia',
             hash: 't_3_1',
           },
           {
@@ -93,7 +93,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '3.3',
             titulo:
-              'Política Nacional de Apoyo y Fortalecimiento a las Familias',
+              'La Política Nacional de Apoyo y Fortalecimiento a las Familias',
             hash: 't_3_3',
           },
           {
@@ -310,7 +310,7 @@ export default {
       referencia:
         'ICBF. (2013). Concepto 74 de 2013. Obtenido de Instituto Colombiano de Bienestar Familiar – ICBF.',
       link:
-        'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0000074_2013.html',
+        'https://www.icbf.gov.co/cargues/avance/docs/concepto_icbf_0000074_2013.htm',
     },
     {
       referencia:
@@ -389,7 +389,7 @@ export default {
     {
       texto: 'ICBF. (2019). Manual 0perativo SNBF.',
       tipo: 'PDF',
-      descarga: '/downloads/complementario/manual_operativo_snbf.pdf',
+      descarga: 'downloads/complementario/manual_operativo_snbf.pdf',
     },
   ],
 }

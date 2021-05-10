@@ -24,7 +24,6 @@
 
     .titulo-segundo.mb-5
       #t_1_1.h4 1.1 Las niñas, niños y adolescentes como sujetos titulares de derechos
-
     .c-tarjeta.c-tarjeta--celeste.mb-5
       .row.justify-content-center.align-items-center
         .col-auto.mb-4.mb-lg-0

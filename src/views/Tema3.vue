@@ -330,7 +330,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-xl.order-last.order-xl-first
-        p Como se mencionó anteriormente, una de las peores formas de trabajo infantil corresponde a la Explotación Sexual Comercial se Niñas, Niños y Adolescentes (ESCNNA). Frente a esto surge la Línea de Política Pública para la Prevención y Erradicación de la Explotación Sexual Comercial de Niñas, Niños y Adolescentes (2018-2028) con el fin de consolidar acciones para eliminar este flagelo que vulnera gravemente los derechos de las niñas, niños y adolescentes. 
+        p Como se mencionó anteriormente, una de las peores formas de trabajo infantil corresponde a la Explotación Sexual Comercial de Niñas, Niños y Adolescentes (ESCNNA). Frente a esto surge la Línea de Política Pública para la Prevención y Erradicación de la Explotación Sexual Comercial de Niñas, Niños y Adolescentes (2018-2028) con el fin de consolidar acciones para eliminar este flagelo que vulnera gravemente los derechos de las niñas, niños y adolescentes. 
           br
           br
           | La ESCNNA se puede definir como una violación a los derechos de la niñez donde un adulto ejerce violencia sexual sobre una niña, niño o adolescente a cambio de una remuneración en dinero o en especie para este o para terceros. Así mismo, esto debe ser entendido como un tipo de violencia sexual donde el cuerpo de los menores es tratado como objeto y mercancía en formas similares a la esclavitud. Cabe aclarar que esta explotación también puede darse para la creación de contenido virtual o físico, es decir, pornografía infantil. Estas prácticas pueden desarrollarse en contextos de proxenetismo, por un familiar o amigo cercano de la víctima o en sitios virtuales. Más específicamente, la ESCNNA se ejemplifica a través de las siguientes situaciones: 
@@ -554,7 +554,7 @@
     .hr--blank
 
     .titulo-segundo
-      #t_3_4.h4 3.5  Actividad didáctica
+      #t_3_5.h4 3.5  Actividad didáctica
 
     .crd_complete
       .row.justify-content-center.align-items-center

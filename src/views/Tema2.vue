@@ -379,7 +379,7 @@
           
           tr 
             td Fiscalía General de la Nación y Consejo Superior de la Judicatura.
-            td Asignar, reorganizar y redistribuir los recursos presupuestales, financieros, físicos y humanos para el cumplimento de la Ley 1098 de 2006. Así mismo, la Fiscalía debe recibir denuncias e investigar los delitos cometidos contra niñas, niños y adolescentes; garantizar el debido proceso de los adolescentes vinculados al sistema de responsabilidad penal. 
+            td Asignar, reorganizar y redistribuir los recursos presupuestales, financieros, físicos y humanos para el cumplimiento de la Ley 1098 de 2006. Así mismo, la Fiscalía debe recibir denuncias e investigar los delitos cometidos contra niñas, niños y adolescentes; garantizar el debido proceso de los adolescentes vinculados al sistema de responsabilidad penal. 
           tr 
             td Instituto Nacional de Medicina Legal y Ciencias Forenses.
             td Desarrollar funciones asistenciales, científicas, extrapericiales y sociales en el área de la medicina legal y las ciencias forenses, todo ello en lo relacionado con los derechos de niños, niñas y adolescentes.
