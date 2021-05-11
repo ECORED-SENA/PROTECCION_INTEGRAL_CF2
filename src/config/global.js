@@ -204,13 +204,14 @@ export default {
       },
       {
         nombre: [
+          'Lady Adriana Ariza Luque',
           'Luis A. Arévalo',
           'Luis Gabriel Urueta Álvarez',
-          'Gilberto Junior Rodríguez Rodríguez',
-          'Nelson Iván Vera Briceño',
-          'Camilo Villamizar',
-          'Wilson Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Cáceres',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Oleg Litvin',
+          'Lina Perez',
         ],
         cargo: 'Diseño web y Producción Audiovisual',
       },
@@ -219,7 +220,7 @@ export default {
         cargo: 'Desarrollo Front-End',
       },
       {
-        nombre: ['Rafael Augusto Mantilla López'],
+        nombre: ['María Isabel Román Rueda'],
         cargo: 'Revisor de contenidos',
       },
       {
