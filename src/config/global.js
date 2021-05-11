@@ -205,9 +205,11 @@ export default {
       {
         nombre: [
           'Luis A. Arévalo',
-          'Lady Adriana Ariza Luque',
-          'José Jaime Luis Tang Pinzón',
-          'Oleg Litvin',
+          'Luis Gabriel Urueta Álvarez',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Nelson Iván Vera Briceño',
+          'Camilo Villamizar',
+          'Wilson Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
         ],
         cargo: 'Diseño web y Producción Audiovisual',
@@ -217,8 +219,8 @@ export default {
         cargo: 'Desarrollo Front-End',
       },
       {
-        nombre: ['María Isabel Román Rueda'],
-        cargo: 'Revisores de contenidos',
+        nombre: ['Rafael Augusto Mantilla López'],
+        cargo: 'Revisor de contenidos',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
