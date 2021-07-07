@@ -120,13 +120,13 @@
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--celeste
           figure.mb-3
-            img(src="@/assets/tema_1/img_1_3_01.svg", alt="alt", style="width:90px")
-          h5 Convención sobre los Derechos del Niño - 1989 
+            img(src="@/assets/tema_1/img_1_3_02.svg", alt="alt", style="width:90px")
+          h5 Constitución Política de Colombia - 1991         
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--rosa
           figure.mb-3
-            img(src="@/assets/tema_1/img_1_3_02.svg", alt="alt", style="width:90px")
-          h5 Constitución Política de Colombia - 1991     
+            img(src="@/assets/tema_1/img_1_3_01.svg", alt="alt", style="width:90px")
+          h5 Convención sobre los derechos del niño, adoptada mediante la Ley 12 de 1991 
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--celeste
           figure.mb-3

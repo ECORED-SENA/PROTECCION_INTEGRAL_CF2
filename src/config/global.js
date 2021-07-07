@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Promoción de derechos de niñas, niños y adolescentes',
     descripcionCurso:
-      'Se abordará el reconocimiento de niñas, niños y adolescentes como sujetos de derechos, en el contexto nacional e internacional; además se ahondará en el enfoque de protección integral a través del Sistema Nacional de Bienestar Familiar (SNBF) y las políticas públicas orientadas a la prevención de riesgos de vulneración.',
+      'Se abordará el reconocimiento de niñas, niños y adolescentes como sujetos titulares de derechos, en el contexto nacional e internacional; además se ahondará en el enfoque de protección integral a través del Sistema Nacional de Bienestar Familiar (SNBF) y las políticas públicas orientadas a la prevención de riesgos y la atención integral de las vulneraciones.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -191,6 +191,16 @@ export default {
         cargo: 'Corrector de Estilo',
         centro: 'Centro para la comunicación de la Industria Gráfica',
         regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Rocio Aranguren Yáñez',
+        cargo: 'Profesional Especializada',
+        centro: 'Subdirección de Articulación Nacional SNBF',
+      },
+      {
+        nombre: 'Yenifer Mariño Suárez',
+        cargo: 'Contratista',
+        centro: 'Subdirección de Articulación Territorial SNBF',
       },
     ],
     desarrolloProducto: [

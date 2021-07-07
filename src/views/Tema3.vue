@@ -182,14 +182,14 @@
               | Situaci&oacute;n de da&ntilde;o, perjuicio o lesi&oacute;n que   impide el ejercicio de derechos de ni&ntilde;as, ni&ntilde;as y adolescentes una vez la   amenaza se materializa.   
               br
             td
-              | Incumplimiento de los deberes de los actores   responsables del cuidado de ni&ntilde;as, ni&ntilde;os y adolescentes, ya sea Estado,   familia o sociedad   
+              | Incumplimiento, omisión o negación de acceso a servicio, política, programa o acción de las autoridades administrativas, judiciales, tradicionales, actores de SNBF o entes territoriales.  
               br
           tr
             td Ejemplo: presencia de grupos armados.   
             td
               | Ejemplo: violencia sexual ejercida sobre una   ni&ntilde;a, ni&ntilde;o o adolescente por integrantes de un grupo armado.
             td
-              | Entidades no realizaron informes de riesgo en   la zona.    
+              | Ejemplo: negación al acceso al derecho a la salud.<br><br> La inobservancia se refiere a un derecho que no ha sido atendido por una entidad.     
               br
 
     .hr--blank
@@ -208,7 +208,7 @@
     p.mb-5 Si bien el trabajo es una dimensión que contribuye significativamente a la dignificación de las personas, en el caso de las niñas, niños y adolescentes esto puede llegar convertirse en una amenaza a su desarrollo integral si no se cumplen una serie de condiciones. 
       br
       br
-      | Entonces, ¿cuándo se considera que el trabajo infantil es problemático y debe ser erradicado?, cuando se tratan de actividades que implican un peligro para la salud e integridad de las niñas, niños y adolescentes ya sea por las tareas efectuadas o por las condiciones en las que se realizan. Estas actividades son denominadas peores formas de trabajo infantil según la CDN y la Organización Internacional del Trabajo (OIT). Entre ellas se encuentran la esclavitud, la venta y trata de personas, la condición de siervo, trabajos forzosos, reclutamiento en conflictos armados, utilización para prostitución y pornografía y tráfico de estupefacientes. Todas estas actividades están prohibidas por ley y aquellos que utilicen niñas, niños y adolescentes para estos propósitos serán objeto de procesos penales (ICBF, 2018).
+      | Entonces, ¿cuándo se considera que el trabajo infantil es problemático y debe ser erradicado?, cuando se tratan de actividades que implican un peligro para la salud e integridad de las niñas, niños y adolescentes ya sea por las tareas efectuadas o por las condiciones en las que se realizan. Estas actividades señaladas como peligrosas se encuentran dentro de las peores formas de trabajo infantil referidas en el Convenio 182 de la Organización Internacional del Trabajo (OIT). Entre ellas se encuentran la esclavitud, la venta y trata de personas, la condición de siervo, trabajos forzosos, reclutamiento en conflictos armados, utilización para prostitución y pornografía y tráfico de estupefacientes. Todas estas actividades están prohibidas por ley y aquellos que utilicen niñas, niños y adolescentes para estos propósitos serán objeto de procesos penales (ICBF, 2018).
       br
       br
       | De todas formas, se debe erradicar cualquier actividad que ponga en riesgo la salud, seguridad y moralidad de los niños así no se encuentren penalizada por ley. 
@@ -216,7 +216,7 @@
       br
       | A continuación, se enlistan las formas de trabajo infantil más comunes:
 
-    h5.text-center.mb-4 Tipos de trabajo infantil
+    h5.text-center.mb-4 Peores Formas de Trabajo Infantil – PFTI
 
     .tabla-custom
       table.mb-5
