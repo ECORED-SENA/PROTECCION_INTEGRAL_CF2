@@ -289,7 +289,8 @@
           img(src="@/assets/tema_3/img_3_1_11.svg", alt="Factores de riesgo y afectaciones del trabajo infantil", style="width:750px;").mb-4
           figcaption Nota: adaptado de ACNUR (2019). 
 
-    p.mb-5 A nivel nacional las cifras de trabajo infantil presentan un panorama inquietante al encontrarse que para el año 2017 un consolidado de 796.000 niños, niñas y adolescentes estaban en situación de trabajo infantil. La población de adolescentes de 15 a 17 años es aquella que se encuentran más afectada por esta problemática, al concentrar el 19,8 % del total (ICBF, 2018). Teniendo en cuenta todo lo anterior, se hace necesario emprender acciones para la superación de esta problemática. 
+    p.mb-5 A nivel nacional las cifras de trabajo infantil presentan un panorama inquietante al encontrarse que para el año 2020 un consolidado de 523.000 niñas, niños y adolescentes se encontraban en situación de trabajo infantil, de los cuales: 64% son niños y adolescentes hombres. 36% son niñas y adolescentes mujeres. 397.134 niñas, niños y adolescentes realizaban actividades que no estaban acordes a su edad en sectores como: agrícola, comercial, hoteles y restaurantes, industria manufacturera y reparación de vehículos. 164.407 niñas, niños y adolescentes entre los 5 y 17 años que se encuentran en situación de trabajo infantil, no asisten al sistema escolar. 358.000 niñas, niños y adolescentes se encuentran estudiando y trabajando, haciendo una doble jornada que los agota.
+ 
       br
       br
       | Por lo tanto, la política de prevención y erradicación del trabajo infantil propone las siguientes acciones frente a esta situación: 
