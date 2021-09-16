@@ -158,6 +158,16 @@ export default {
         regional: 'Regional Santander',
       },
       {
+        nombre: 'Rocio Aranguren Yáñez',
+        cargo: 'Profesional Especializada',
+        centro: 'Subdirección de Articulación Nacional SNBF',
+      },
+      {
+        nombre: 'Yenifer Mariño Suárez',
+        cargo: 'Contratista',
+        centro: 'Subdirección de Articulación Nacional SNBF',
+      },
+      {
         nombre: 'Luis Alfonso Rodríguez Beltrán',
         cargo: 'Consultor',
         centro: 'CORPROGRESO',
