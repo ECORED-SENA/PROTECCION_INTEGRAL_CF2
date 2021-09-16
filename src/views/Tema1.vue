@@ -12,12 +12,13 @@
 
     figure.mb-5
       img(src="@/assets/tema_1/img_1_01.svg", alt="Los derechos de las niñas, niños y adolescentes")
+    
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-6.mb-5.mb-lg-0
+      .col-lg-6
         .cajon--rojo.p-4          
           p Es necesario, entonces, recordar que los derechos son un conjunto de facultades o posibilidades que la sociedad y el Estado le reconocen a un individuo o grupo para vivir libremente, con seguridad e igualdad. Así mismo, aquello que se considera como un derecho o posibilidad cambia según las transformaciones históricas y culturales vividas por las sociedades (Gómez, 2012). En ese sentido, lo que es un derecho dentro de una sociedad puede no serlo para otra a partir de su historia y características culturales, como más adelante se expondrá. 
-      .col-12.col-lg-6
+      .col-lg-6
         p Para este caso el Estado Colombiano reconoce que los niños, niñas y adolescentes necesitan un cuidado y protección especial para poder desarrollar sus vidas, por lo tanto, se establece un conjunto de derechos específicos que pueden ejercer como sujetos titulares de estos. El carácter único de estos derechos se reconoce debido a la importancia que tiene la infancia y la adolescencia en el desarrollo futuro de la sociedad y el mundo.
 
     .hr--blank 
@@ -45,33 +46,35 @@
     p.mb-5 Pensar la infancia y la adolescencia como etapas de plena autonomía y decisión implica pasar de ser objetos definidos por la dependencia y la ausencia de representatividad a sujetos de titulares de derechos. 
       br
       br
-      | Dicha transformación se soporta en tres (3) principios, a saber: autonomía progresiva, el interés superior del niño, y el derecho a ser oído y tomada en cuenta su opinión, como se indica en la siguiente infografía.  
+      | Dicha transformación se soporta en tres (3) principios, a saber: autonomía progresiva, el interés superior del niño, y el derecho a ser oído y tomada en cuenta su opinión, como se indica en la siguiente infografía. 
 
-    hr
-    .row.align-items-center
-      .col-auto
-        figure
-          img(src="@/assets/tema_1/img_1_2_01.svg", alt="Autonomía progresiva", style="width:90px;")        
-      .col
-        h6.mb-2 Autonomía progresiva
-        p A medida que se desarrollan física y mentalmente, los niños, niñas y adolescentes adquieren mayores capacidades para poder ejercer sus derechos. 
-    hr   
-    .row.align-items-center
-      .col-auto
-        figure
-          img(src="@/assets/tema_1/img_1_2_02.svg", alt="Autonomía progresiva", style="width:90px;")
-      .col
-        h6.mb-2 Interés superior del niño
-        p Obligatoriedad que tienen la familia la sociedad y el Estado, de asistir y proteger a los niños, niñas y adolescentes para garantizar su desarrollo integral y el ejercicio pleno de sus derechos (Ministerio de la Protección Social – ICBF, 2006).  
-    hr
-    .row.align-items-center
-      .col-auto
-        figure
-          img(src="@/assets/tema_1/img_1_2_03.svg", alt="Autonomía progresiva", style="width:90px;")
-      .col
-        h6.mb-2 Derecho a ser oído y tomada en cuenta su opinión
-        p Cuando su voz es tomada en cuenta, los niños, niñas y adolescentes, pueden hacer uso de la facultad que tienen para expresarse, manifestar sus deseos, inquietudes y si fuera el caso sus decisiones. 
-    hr.mb-5
+    .row.justify-content-center
+      .col-10
+        hr
+        .row.align-items-center
+          .col-auto
+            figure
+              img(src="@/assets/tema_1/img_1_2_01.svg", alt="Autonomía progresiva", style="width:90px;")        
+          .col
+            h6.mb-2 Autonomía progresiva
+            p A medida que se desarrollan física y mentalmente, los niños, niñas y adolescentes adquieren mayores capacidades para poder ejercer sus derechos. 
+        hr   
+        .row.align-items-center
+          .col-auto
+            figure
+              img(src="@/assets/tema_1/img_1_2_02.svg", alt="Autonomía progresiva", style="width:90px;")
+          .col
+            h6.mb-2 Interés superior del niño
+            p Obligatoriedad que tienen la familia la sociedad y el Estado, de asistir y proteger a los niños, niñas y adolescentes para garantizar su desarrollo integral y el ejercicio pleno de sus derechos (Ministerio de la Protección Social – ICBF, 2006).  
+        hr
+        .row.align-items-center
+          .col-auto
+            figure
+              img(src="@/assets/tema_1/img_1_2_03.svg", alt="Autonomía progresiva", style="width:90px;")
+          .col
+            h6.mb-2 Derecho a ser oído y tomada en cuenta su opinión
+            p Cuando su voz es tomada en cuenta, los niños, niñas y adolescentes, pueden hacer uso de la facultad que tienen para expresarse, manifestar sus deseos, inquietudes y si fuera el caso sus decisiones. 
+        hr.mb-5
 
     .row.justify-content-center.align-items-center.mb-4      
       .col-12.col-lg.mb-5.mb-lg-0
@@ -102,9 +105,9 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/R9-4wEZjNkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Derecho a ser oído y tomada en cuenta su opinión     
-
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1-8Ch7kAlWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Derecho a ser oído y tomada en cuenta su opinión
+      
     .hr--blank
 
     .titulo-segundo
@@ -120,13 +123,13 @@
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--celeste
           figure.mb-3
-            img(src="@/assets/tema_1/img_1_3_02.svg", alt="alt", style="width:90px")
-          h5 Constitución Política de Colombia - 1991         
+            img(src="@/assets/tema_1/img_1_3_01.svg", alt="alt", style="width:90px")
+          h5 Convención sobre los Derechos del Niño - 1989 
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--rosa
           figure.mb-3
-            img(src="@/assets/tema_1/img_1_3_01.svg", alt="alt", style="width:90px")
-          h5 Convención sobre los derechos del niño, adoptada mediante la Ley 12 de 1991 
+            img(src="@/assets/tema_1/img_1_3_02.svg", alt="alt", style="width:90px")
+          h5 Constitución Política de Colombia - 1991     
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--celeste
           figure.mb-3
