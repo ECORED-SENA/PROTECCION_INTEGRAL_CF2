@@ -120,23 +120,24 @@
 
     .row.mb-5
       .h5.text-center.mb-5 Principales marcos normativos
-      .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
-        .crd_B.crd_B--celeste
-          figure.mb-3
-            img(src="@/assets/tema_1/img_1_3_01.svg", alt="alt", style="width:90px")
-          h5 Convención sobre los Derechos del Niño - 1989 
+      
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--rosa
           figure.mb-3
             img(src="@/assets/tema_1/img_1_3_02.svg", alt="alt", style="width:90px")
-          h5 Constitución Política de Colombia - 1991     
+          h5 Constitución Política de Colombia - 1991  
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
         .crd_B.crd_B--celeste
+          figure.mb-3
+            img(src="@/assets/tema_1/img_1_3_01.svg", alt="alt", style="width:90px")
+          h5 Convención sobre los Derechos del Niño - 1989    
+      .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
+        .crd_B.crd_B--rosa
           figure.mb-3
             img(src="@/assets/tema_1/img_1_3_03.svg", alt="alt", style="width:90px")
           h5 Código de Infancia y Adolescencia - Ley 1098 de 2006
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
-        .crd_B.crd_B--rosa
+        .crd_B.crd_B--celeste
           figure.mb-3
             img(src="@/assets/tema_1/img_1_3_04.svg", alt="alt", style="width:90px")
           h5 Política Nacional de Infancia y Adolescencia (PNIA) - 2018
