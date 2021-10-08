@@ -235,7 +235,7 @@
         p El Código de Infancia y Adolescencia, es el marco normativo central que funciona como principal referente para la protección de los derechos de las niñas, niños y adolescentes y dicta las disposiciones fundamentales para las entidades encargadas de los temas relacionados. Esto debido a que es un aterrizaje más específico de los principios planteados en la Constitución a la luz de la Convención de los Derechos del Niño. 
           br
           br
-          | En el Código cuenta con un total de 44 derechos que se clasifican en tres (3) grandes grupos. 
+          | El Código cuenta con un total de 44 derechos que se clasifican en tres (3) grandes grupos. 
           br
           br
           | A renglón seguido se presenta un breve esquema con algunos ejemplos de los derechos encontrados. 
