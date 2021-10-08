@@ -182,7 +182,7 @@
               | Situaci&oacute;n de da&ntilde;o, perjuicio o lesi&oacute;n que   impide el ejercicio de derechos de ni&ntilde;as, ni&ntilde;as y adolescentes una vez la   amenaza se materializa.   
               br
             td
-              | Incumplimiento, omisión o negació de acceso a servicio, política, programa o acción de las autoridades administrativas, judiciales, tradicionales, actores de SNBG o entes territoriales.   
+              | Incumplimiento, omisión o negación de acceso a servicio, política, programa o acción de las autoridades administrativas, judiciales, tradicionales, actores de SNBG o entes territoriales.   
               br
           tr
             td Ejemplo: presencia de grupos armados.   
